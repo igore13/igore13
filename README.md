@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Servers FiveM
-- 🌱 I’m currently learning Lua/HTML/CSS/JS/PHP
-- 👯 I’m studens in School named Greta
+- 🌱 Web and Mobile Web Developer Diploma (BAC +2)
+- 🌱 I’m currently learning JAVA/JAKARTA/C#/DOTNET/SPRING/REACT/KOTLIN/NODEJS
+- 👯 I’m studens in School named 2i Tech Academy
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
